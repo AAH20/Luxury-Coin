@@ -1,4 +1,7 @@
+## Luxury Coin is a Monero Project fork which is intended to be the coin of luxurious businesses with the base of the best known cryptography and obfuscation algorithms implemented in monreo since 2013 , Great Base with an example of one of the most successful fork stories , this might push the adoption of monero while having some extra features and rules , Also Important Note : monero already can be regulatory compliance and be adopted to white markets with the view only wallet and the view key features , which allow adoption under different local regulations , stay tuned for the upcoming updates.
+
 # Monero
+
 
 Copyright (c) 2014-2021 The Monero Project.   
 Portions Copyright (c) 2012-2013 The Cryptonote developers.
